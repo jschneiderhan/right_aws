@@ -624,7 +624,6 @@ module RightAws
       on_exception
     end
 
-
       # Retrieves object data from Amazon. Returns a +hash+  or an exception.
       #
       #  s3.get('my_awesome_bucket', 'log/curent/1.log') #=>
